@@ -43,5 +43,5 @@ I buy all my groceries and other neccessities from online stores and have had to
 
 **After project thoughts:**
 - The 2 websites are very different and have taught me a lot and have made me more confident in my scraping skills.
-- The code has a lot of delay hadcoded so as to ensure it runs smoothly and encounters no errors, but this also means it is slow. I wish to further improve the performance once I learn more about it. 
+- The code has a lot of delay(hardcoded) so as to ensure it runs smoothly and encounters no errors, but this also makes it slow. I wish to further improve the performance once I learn more about it. 
 - I use this product often and it really saves me a lot of time. So, I am happy I did this project! :D 
